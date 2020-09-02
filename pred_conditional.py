@@ -1,4 +1,5 @@
 # conditional generation
+# recall that class label must also be provided to input layer
 
 # generates 10 images for each class label
 
